@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rishabh Devrani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="center" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPJMNX-tlEhtj9IJStVuXjVwRIxztx6yFtrQ&s" alt="Coding">
+ <img align="center" width="500" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" alt="Coding">
 
 - 🔭 I’m currently working on **Project, Skills**
 
