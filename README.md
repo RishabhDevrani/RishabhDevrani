@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rishabh Devrani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="center" width="500" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" alt="Coding">
+ <img align="center" width="900" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" alt="Coding">
 
 - 🔭 I’m currently working on **Project, Skills**
 
